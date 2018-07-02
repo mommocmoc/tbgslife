@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1:500|Sunflower:300');
 p {
-  color : blue;
+  color : grey;
+  font-family: 'Sunflower', sans-serif;
+  padding-left: 10px;
+  text-align: left;
+  letter-spacing: normal;
+}
+
+h1 {
+  font-family: 'Gothic A1', sans-serif;
+  text-align: center;
+}
+ul {
+  font-family: 'Gothic A1', sans-serif;
+  text-align: left;
 }
